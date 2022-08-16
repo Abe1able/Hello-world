@@ -17,11 +17,9 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-
-👤 **Author2**
-
 - GitHub: [@githubhandle](https://github.com/abe1able)
+
+
 
 ## 🤝 Contributing
 
