@@ -10,16 +10,34 @@
 - HTML
 - css
 
+## Getting Started
 
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+There are no prerequisites for this project.
+
+### Setup
+
+Clone the repository and open the index.html file.
+
+### Install
+
+Install all the dependencies by running the command npm -i
+
+### Usage
+
+### Run tests
+
+### Deployment
 
 
 ## Authors
 
+
 👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-
-👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/abe1able)
 
